@@ -85,3 +85,15 @@ Dua model dibandingkan dalam proyek ini:
 
 ## 📁 Struktur Repository
 ```
+yelp-sentiment-analysis/
+│
+├── Sentiment_Analysis_Yelp.ipynb   # Notebook utama
+├── README.md                        # Dokumentasi proyek
+└── LICENSE                          # MIT License
+```
+
+---
+
+## 👤 Author
+**reyenno**  
+Mata Kuliah: Artificial Intelligence dan Big Data
