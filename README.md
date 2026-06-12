@@ -87,9 +87,10 @@ Dua model dibandingkan dalam proyek ini:
 ```
 yelp-sentiment-analysis/
 │
-├── Sentiment_Analysis_Yelp.ipynb   # Notebook utama
+├── yelp-sentiment-analysis.ipynb   # Notebook utama
 ├── README.md                        # Dokumentasi proyek
-└── LICENSE                          # MIT License
+├── LICENSE                          # MIT License
+└── .gitignore                       # Git ignore file
 ```
 
 ---
